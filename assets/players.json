@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "keyword": "Ana",
+      "id": 1,
+      "autocompleteterm": "Ana Barajas",
+      "country": "Colombia"
+    },
+    {
+      "keyword": "Juan",
+      "id": 2,
+      "autocompleteterm": "Juan Mejia",
+      "country": "Libano"
+    },
+    {
+      "keyword": "Juan",
+      "id": 3,
+      "autocompleteterm": "Juan Cardenas",
+      "country": "Colombia"
+    },
+    {
+      "keyword": "Juan",
+      "id": 4,
+      "autocompleteterm": "Juan Vasquez",
+      "country": "USA"
+    },
+    {
+      "keyword": "Anaa",
+      "id": 5,
+      "autocompleteterm": "Anaa Wardenas",
+      "country": "USA"
+    }
+  ]
+}
